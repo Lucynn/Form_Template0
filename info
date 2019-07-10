@@ -1,0 +1,32 @@
+###Template###
+
+Font: lato 
+Source: fonts.google.com
+HTML: <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
+CSS: font-family: 'Lato', sans-serif;
+
+###Colors###
+
+Form bg: #ECF0F1
+Form bg: #EEE
+Form bg: #FFF
+
+Source: http://getuicolors.com/
+Source: https://www.0to255.com/
+
+###Images###
+
+Source: http://thestocks.im/
+Source: https://unsplash.com/t/wallpapers
+
+###Background###
+
+/* Background pattern from Toptal Subtle Patterns */
+
+
+Font-size: 15-25px;
+Headlines: 32-60/90(low bold)px;
+Line Spacing: 120-150%;
+Characters per line: 45-90 chars;
+
+
